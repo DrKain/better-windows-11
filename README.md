@@ -27,7 +27,7 @@ Content
 <summary>Unable to unpin one-drive from file view</summary><br>  
 
 1. Click on Start, search for command prompter
-2. Right-click on and select "Run as Administrator"
+2. Right-click and select "Run as Administrator"
 3. Paste the following command:  
 ```
 del "%AppData%\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.automaticDestinations-ms"
