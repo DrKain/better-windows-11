@@ -1,3 +1,4 @@
+*A personal collection and log of tools I've used to optimize and un-fuck Windows 11. Includes privacy tweaks and other QOL improvements.*
 
 <!--   
 <details> 
