@@ -1,7 +1,7 @@
 
 <!--   
 <details> 
-<summary>Text</summary>  
+<summary>Text</summary><br>    
 
 Content
 
@@ -11,7 +11,19 @@ Content
 --------------------------------------------------------------------
 
 <details> 
-<summary>Unable to unpin one-drive from file view</summary>  
+<summary>Disable tracking/spyware/cortana ect</summary><br>  
+  
+1. Download [ShutUp10++](https://www.oo-software.com/en/shutup10)  
+2. Run the file  
+3. Click "Actions" -> "Apply only recommended settings"  
+4. Wait 5 seconds then close the app
+
+</details>
+
+--------------------------------------------------------------------
+
+<details> 
+<summary>Unable to unpin one-drive from file view</summary><br>  
 
 1. Click on Start, search for command prompter
 2. Right-click on and select "Run as Administrator"
@@ -25,7 +37,7 @@ del "%AppData%\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.a
 --------------------------------------------------------------------
 
 <details> 
-<summary>Disable "Group By" for all folders</summary>  
+<summary>Disable "Group By" for all folders</summary><br>  
 
 1. Download [WinSetView](https://github.com/LesFerch/WinSetView)  
 2. Extract, run and hit "Submit"  
@@ -35,7 +47,7 @@ del "%AppData%\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.a
 --------------------------------------------------------------------
 
 <details> 
-<summary>Always show "more options" in file view</summary>  
+<summary>Always show "more options" in file view</summary><br>  
 
 1. Click on Start, search for command prompter
 2. Right-click on and select "Run as Administrator"
@@ -52,8 +64,6 @@ EXIT
 </details>
 
 --------------------------------------------------------------------
-
-
 
 
 
