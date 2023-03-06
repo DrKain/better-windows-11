@@ -12,7 +12,7 @@ Content
 --------------------------------------------------------------------
 
 <details> 
-<summary>Disable tracking/spyware/cortana ect</summary><br>  
+<summary>Disable telemetry/tracking/spyware/cortana ect</summary><br>  
   
 1. Download [ShutUp10++](https://www.oo-software.com/en/shutup10)  
 2. Run the file  
