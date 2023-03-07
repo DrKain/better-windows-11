@@ -93,5 +93,18 @@ Optional: You may also want to uncheck "Show snap layouts when I drag a window t
 
 --------------------------------------------------------------------
 
+<details> 
+<summary>Disable checkboxes in file explorer</summary><br>    
 
+![check-boxes.png](images/check-boxes.png)  
+
+1. Open start menu  
+2. Search "File Explorer Options"  
+3. Click on the "View" tab  
+4. Locate "Use check boxes to select items" and disable it  
+5. Press "Apply"
+
+</details>
+
+--------------------------------------------------------------------
 
