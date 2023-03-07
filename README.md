@@ -1,4 +1,6 @@
-*A personal collection and log of tools I've used to optimize and un-fuck Windows 11. Includes privacy tweaks and other QOL improvements.*
+*I recently bought a laptop that runs Windows 11, it was the only option at the time or I would have stuck with 10. I had a feeling it would be bad, but it was much worse than I expected. If Windows 7 was still supported by modern apps I'd still be using that.*  
+
+*This readme/repo is a personal collection of tools and guides I've used to optimize and un-fuck Windows 11. Includes privacy tweaks and other QOL improvements.*
 
 <!--   
 <details> 
