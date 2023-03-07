@@ -74,6 +74,18 @@ reg.exe delete "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a
 
 --------------------------------------------------------------------
 
+<details> 
+<summary>Disable snap layouts</summary><br>    
+
+![snap-windows.png](images/snap-windows.png)  
+
+1. Open start menu
+2. Search for `multitasking settings`  
+3. Uncheck "Snap Windows"
+
+</details>
+
+--------------------------------------------------------------------
 
 
 
