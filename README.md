@@ -75,14 +75,18 @@ reg.exe delete "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a
 --------------------------------------------------------------------
 
 <details> 
-<summary>Disable snap layouts on hover</summary><br>    
+<summary>Disable snap layouts on hover</summary><br>   
+
+Some people find this feature useful, some may not. I found the popups to be annoying so here's how to disable it:  
 
 ![snap-windows.png](images/snap-windows.png)  
 
 1. Open start menu
 2. Search for `multitasking settings`  
 3. Expand "Snap Windows" to show all options  
-4. Uncheck "Show Snap Layouts When I Hover over a Window's Maximize button"
+4. Uncheck "Show snap layouts when I hover over a window's maximize button"
+
+Optional: You may also want to uncheck "Show snap layouts when I drag a window to the top of the screen"
 
 
 </details>
