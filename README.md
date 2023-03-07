@@ -42,6 +42,8 @@ del "%AppData%\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.a
 <details> 
 <summary>Disable "Group By" for all folders</summary><br>  
 
+![group-by.png](images/group-by.png)  
+
 1. Download [WinSetView](https://github.com/LesFerch/WinSetView)  
 2. Extract, run and hit "Submit"  
 
@@ -107,4 +109,5 @@ Optional: You may also want to uncheck "Show snap layouts when I drag a window t
 </details>
 
 --------------------------------------------------------------------
+
 
