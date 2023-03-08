@@ -52,7 +52,7 @@ del "%AppData%\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.a
 --------------------------------------------------------------------
 
 <details> 
-<summary>Always show "more options" in file view</summary><br>  
+<summary>Restore old context menu</summary><br>  
 
 1. Click on Start, search for command prompter
 2. Right-click on and select "Run as Administrator"
@@ -60,9 +60,11 @@ del "%AppData%\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.a
 ```
 reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f
 ``` 
-4. Open task manager (Ctrl + Alt + Esc)  
-5. Open "details" view and close `explorer.exe`  
-6. Click "run new task" and type `explorer.exe` 
+4. Open task manager (Ctrl + Shift + Esc)  
+5. Open "details" view
+6. Right click `explorer.exe` and select "End Task"  
+7. Click "run new task" at the top of the screen
+8. Type `explorer.exe` and hit enter 
    
 <details> 
 <summary>If you want to undo this change:</summary><br>    
