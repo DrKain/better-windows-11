@@ -54,8 +54,10 @@ del "%AppData%\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.a
 <details> 
 <summary>Restore old context menu</summary><br>  
 
-1. Click on Start, search for command prompter
-2. Right-click on and select "Run as Administrator"
+*For some reason Windows 11 downgraded the context menu, showing a "simplified" version until you click "show more". This tweak ensures the full context menu is always shown.*  
+
+1. Click on Start, search for command prompt  
+2. Right-click and select "Run as Administrator"
 3. Paste the following command:  
 ```
 reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f
@@ -66,14 +68,6 @@ reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\
 7. Click "run new task" at the top of the screen
 8. Type `explorer.exe` and hit enter 
    
-<details> 
-<summary>If you want to undo this change:</summary><br>    
-
-```
-reg.exe delete "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}" /f
-```
-
-</details>
 </details>
 
 --------------------------------------------------------------------
