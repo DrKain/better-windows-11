@@ -65,7 +65,7 @@ reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\
 4. Open task manager (Ctrl + Shift + Esc)  
 5. Open "details" view
 6. Right click `explorer.exe` and select "End Task"  
-7. Click "run new task" at the top of the screen
+7. Click "run new task" at the top of the window
 8. Type `explorer.exe` and hit enter 
    
 </details>
