@@ -16,6 +16,8 @@ Content
 <details> 
 <summary>Disable telemetry/tracking/spyware/cortana ect</summary><br>  
   
+*This is an excellent all-in-one tool that works with both Windows 10 and Windows 11. It has a large number of features that I consider to be essential for any modern Windows system. See the website for more info.* 
+  
 1. Download [ShutUp10++](https://www.oo-software.com/en/shutup10)  
 2. Run the file  
 3. Click "Actions" -> "Apply only recommended settings"  
