@@ -28,6 +28,18 @@ Content
 --------------------------------------------------------------------
 
 <details> 
+<summary>Improved image viewer</summary><br>    
+
+*The "Photos" app bundled with Windows 11 is a massive downgrade with very limited features and poor optimization. ImageGlass is an excellent, lightweight image viewer with support for 80+ formats and includes many other great features. It's not essential, but highly recommended*
+
+1. Download [ImageGlass](https://imageglass.org/)  
+2. Run/Install
+
+</details>
+
+--------------------------------------------------------------------
+
+<details> 
 <summary>Unable to unpin one-drive from file view</summary><br>  
 
 1. Click on Start, search for command prompt  
