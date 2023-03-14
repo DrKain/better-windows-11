@@ -121,3 +121,22 @@ Optional: You may also want to uncheck "Show snap layouts when I drag a window t
 --------------------------------------------------------------------
 
 
+<details> 
+<summary>Remove language selector from task bar</summary><br>  
+
+Very small annoyance. This simply removes the language selector from the task bar. It's not something I use or want, so hiding it saves a small amount of space for other apps.
+
+![lang-selector.png](images/lang-selector.png)  
+
+1. Open start menu
+2. Search "Advanced keyboard settings"  
+3. Check "Use the desktop language bar when it's available"  
+4. Open "Language bar options"  
+5. Select "Hidden" under "Language Bar"  
+6. Apply
+
+</details>
+
+--------------------------------------------------------------------
+
+
