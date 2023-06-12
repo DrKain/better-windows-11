@@ -139,4 +139,27 @@ Very small annoyance. This simply removes the language selector from the task ba
 
 --------------------------------------------------------------------
 
+<details> 
+<summary>Disable web results in search</summary><br>  
+
+This disables the "Search with Bing" garbage that pops up when I am trying to find a file or app **on my computer**. If I wanted to search the web I would open the browser, I don't know why Microsoft added such a stupid feature. There's also several privacy concerns with important file names being sent to their search engine without permission.  
+
+![DisableSearchBoxSuggestions-preview.png](images/DisableSearchBoxSuggestions-preview.png)  
+  
+1. Open start menu  
+2. Search "regedit" and open the Registry Editor  
+3. Navigate to `HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows`  
+4. If the `Explorer` folder does not exist:
+    - Right click the `Windows` folder and click `New -> Key`  
+    - Type `Explorer` and confirm  
+5. Right click the `Explorer` folder and click `New -> DWORD (32-bit) Value`  
+6. Set the value name to `DisableSearchBoxSuggestions` and value data to `1`  
+7. Press OK and restart your computer
+
+If done correctly, the registry entry should look like this: [verify](images/DisableSearchBoxSuggestions-verify.png)
+
+</details>
+
+--------------------------------------------------------------------
+
 
